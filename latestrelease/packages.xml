@@ -1,0 +1,11 @@
+
+                <packages>
+                    <package name="Stream" version="6.8.119" os="all" url="http://www.promtools.org/prom6/packages/Stream/Stream-6.8.119-all.zip" desc="Stream" org="Eindhoven University of Technology" license="L-GPL" author="A. Burattin, S.J. van Zelst" auto="false" hasPlugins="true" logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png">
+                    <dependency org="prom" name="ProM-Plugins" rev="latest" changing="true" transitive="true" />
+        <dependency org="prom" name="ApacheUtils" rev="latest" changing="true"/>
+        <dependency org="prom" name="BasicUtils" rev="latest" changing="true"/>
+        <dependency org="prom" name="Widgets" rev="latest" changing="true" />
+
+                    </package>
+                </packages>
+            
